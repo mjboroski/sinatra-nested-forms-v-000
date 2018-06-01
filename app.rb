@@ -1,4 +1,3 @@
-
 require './environment'
 
 module FormsLab
@@ -21,6 +20,6 @@ module FormsLab
 
       erb :'pirates/show'
     end
-    
+
   end
 end
